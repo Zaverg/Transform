@@ -1,0 +1,7 @@
+# Установите LF для всех файлов .asset
+*.asset text eol=lf
+
+# Если вам нужны другие типы файлов, добавьте их аналогично:
+# *.txt text eol=lf
+# *.c text eol=lf
+# *.cpp text eol=lf
