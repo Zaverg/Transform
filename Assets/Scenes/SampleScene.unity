@@ -243,8 +243,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e140d3a5ec07f8740b6728ff5de38c3c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _speedGrowing: 1
-  _targetScale: {x: 4, y: 4, z: 4}
+  _speedGrowing: 0.1
 --- !u!114 &251199875
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -510,8 +509,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e140d3a5ec07f8740b6728ff5de38c3c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _speedGrowing: 1
-  _targetScale: {x: 4, y: 4, z: 4}
+  _speedGrowing: 0.1
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
